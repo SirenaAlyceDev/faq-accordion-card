@@ -1,0 +1,42 @@
+
+
+/* .woman {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+} */
+body {
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.main {
+    margin: 75px 100px;
+    border-radius: 10px;
+}
+
+.bg-image {
+  width: 100%;
+  height: auto;
+}
+
+.woman {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: auto;
+}
+
+.card-header {
+    background-color: transparent;
+}
+
+button.btn.btn-link.btn-block {
+    color: hsl(237, 12%, 33%);
+    text-decoration: none;
+}
+
+
+.card-body-text {
+    color:hsl(240, 6%, 50%)
+}
